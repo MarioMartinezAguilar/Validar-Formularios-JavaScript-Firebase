@@ -11,6 +11,7 @@
 </head>
 
 <body>
+    <div class="principal">
     <div class="contenedor">
         <form id="formulario">
             <h2>Formulario de Registro</h2>
@@ -32,12 +33,14 @@
             <button type="submit">Enviar</button>
         </form>
     </div>
+    </div>
     <footer>
-        <p class="parrafo">Derechos Reservados Elaborado Por Ing.Mario Martínez Aguilar &copy; 2024</p>
+        <p class="parrafo">Derechos Reservados Elaborado Por Ing.Mario Martínez Aguilar &copy; <span id='fecha'></span></p>
     </footer>
     <script src="https://www.gstatic.com/firebasejs/10.9.0/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.9.0/firebase-firestore-compat.js"></script>
     <script src="script.js"></script>
+    <script src="fecha.js"></script>
 
 </body>
 

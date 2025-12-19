@@ -1,6 +1,6 @@
 # TITULO DEL PROYECTO    
 
-**Proyecto Validación De Formularios En FireBase Utilizando JavaScript**
+**Proyecto Validación De Formularios Utilizando JavaScript Y Realizando Una Conexión Con Una Base De Datos De Fire Base Para Mandar La Información Que Contiene El Formulario(nombre,correo y contraseña)**
 
 # DESCRIPCIÓN DEL PROYECTO
 **En este proyecto construimos un formulario con sus campos correspondientes así mismo aprendimos a validar cada uno de estos campos con JavaScript, a su vez construimos una base de datos en Firebase es decir en un servidor remoto de esta plataforma que contendrá como información los datos que el usuario mande a través del formulario más adelante explicamos más a detalle.**
